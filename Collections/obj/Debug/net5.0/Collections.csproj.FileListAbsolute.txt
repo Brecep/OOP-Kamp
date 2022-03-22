@@ -1,0 +1,16 @@
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.exe
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.deps.json
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.dll
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\ref\Collections.dll
+C:\Users\recep\source\repos\OOP1\Collections\bin\Debug\net5.0\Collections.pdb
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.dll
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\ref\Collections.dll
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.pdb
+C:\Users\recep\source\repos\OOP1\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
